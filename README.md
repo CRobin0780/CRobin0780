@@ -129,7 +129,7 @@ Active Secret clearance.
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Robinson-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/christionirobinson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christioni%20Robinson-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/christionirobinson/)
 [![GitHub](https://img.shields.io/badge/GitHub-CRobin0780-181717?style=flat&logo=github)](https://github.com/CRobin0780)
 
 ---
